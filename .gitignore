@@ -1,2 +1,6 @@
 .vscode
 fastapi-backend/venv
+# Ignore Terraform directories
+# Ignore infrastructure and manifest files
+infrastructure/
+manifests/
